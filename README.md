@@ -1,2 +1,12 @@
 # -
 日常积累的嵌入式的相关资料
+
+Git hub token
+
+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
+
+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
+
+Gork-1 key
+
+xai-k3CbrqOuSCQO2cg3t7hoiKH9dKXNkEMUWj5Ru99Lyo48C8d8AxFQmtNl9ZPfzS2JYsd29dZOeaq3KmS8
